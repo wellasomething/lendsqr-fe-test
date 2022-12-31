@@ -2,9 +2,9 @@ import React from 'react';
 import logo from './logo.svg';
 import Union from './Union.png';
 import pablo from './pablo.svg';
-import './App.scss';
+import './Login.scss';
 
-function App() {
+function Login() {
   return (
     <div>
     <div className="logo-maker">
@@ -45,4 +45,4 @@ function App() {
   );
 }
 
-export default App;
+export default Login;
